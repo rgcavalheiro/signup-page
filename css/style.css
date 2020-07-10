@@ -1,0 +1,27 @@
+
+body{
+    background-color: #ECEEF1; ;
+}
+/*============================= HEADER SECTION ==================*/
+#header{
+
+}
+
+.header-info{
+    color: gray;
+    text-align: center;
+    width: 100%;
+    align-items: center;
+}
+
+.affiliates{
+    display: inline-block;
+    background-color: violet;
+}
+
+/*============================ FORM SECTION =========================*/
+#signup-form{
+
+}
+
+/*============================ FOOTER SECTION ===================*/

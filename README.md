@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Sign Up page Clone
 
 > A signup page clone from mint.
 
@@ -27,6 +27,7 @@ This project consists of building an HTML document that matches the appearance o
 Github: @mateomh
 Twitter: [@Mateom77199196]
 LinkedIn: http://linkedin.com/in/mateo-mojica-hernandez
+
 👤 Rafael Cavalheiro
 
 Github: @rgcavalheiro

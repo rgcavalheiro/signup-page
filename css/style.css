@@ -1,6 +1,7 @@
 
 body{
     background-color: #ECEEF1;
+    color: #4C4C4C;
 }
 /*============================= HEADER SECTION ==================*/
 #header{
@@ -31,9 +32,13 @@ body{
     
 }
 .header-box{
-    margin: 15% auto 0 auto;
+    margin: 4% auto 0 auto;
     width: 50%;
     text-align: center;
+}
+
+.top p a{
+    text-decoration: none;
 }
 
 
@@ -42,6 +47,7 @@ body{
 #signup-form{
     
     width: 100%;
+    margin-top: 20px;
     
 }
 
@@ -89,13 +95,15 @@ body{
 } 
 
 .input{
-    width: 100%;
+    width: 98%;
     border-color: #c7c7c7;
     border-size: 1px;
+    height: 35px;
+    
 }
 
 .btn{
-    background-color: teal;
+    background-color: #0077C5;
     border: none;
     border-radius: 2px;
     width:100%;
@@ -105,6 +113,11 @@ body{
     padding: 0;
 }
 
+.lock{
+    filter: invert(100%);
+    width: 15px;
+}
+
 /*============================ FOOTER SECTION ===================*/
 #footer{
  
@@ -112,4 +125,13 @@ body{
 
 .copyright a{
     text-decoration: none;
+  
 }
+
+.copyright{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+

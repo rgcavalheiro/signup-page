@@ -16,7 +16,7 @@ This project consists of building an HTML document that matches the appearance o
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/rgcavalheiro/signup-page/master/index.html)
+[Live Demo Link](https://raw.githack.com/rgcavalheiro/signup-page/signup_page_clone/index.html)
 
 
 

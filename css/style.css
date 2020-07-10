@@ -40,9 +40,9 @@ body{
 
 /*============================ FORM SECTION =========================*/
 #signup-form{
-    width:50%;
-    margin: 0 auto 0 auto;
-    padding:5%;
+    
+    width: 100%;
+    
 }
 
 .top{
@@ -57,6 +57,16 @@ body{
 .bottom{
     text-align: center;
 
+}
+
+.form-box{
+    background-color: white;
+    border-color: #c7c7c7;
+    border-width: 1px;
+    border-style: solid;   
+    padding: 10px 40px 10px 40px; 
+    margin: 0 auto 0 auto;
+    width: 340px;
 }
 
 /*============================ FOOTER SECTION ===================*/

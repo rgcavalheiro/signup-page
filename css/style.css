@@ -1,6 +1,6 @@
 
 body{
-    background-color: #ECEEF1; ;
+    background-color: #ECEEF1;
 }
 /*============================= HEADER SECTION ==================*/
 #header{
@@ -67,7 +67,26 @@ body{
     padding: 10px 40px 10px 40px; 
     margin: 0 auto 0 auto;
     width: 340px;
+    border-bottom: none;
 }
+
+.last-footer{
+    color: grey;
+    background-color: #ECEEF1;
+    border-color: #c7c7c7;
+    border-style: solid;
+    margin: 0 auto 0 auto;
+    padding:10px;
+    width:400px;
+    border-width: 1px;
+    border-top: none;
+    font-size: 11px;
+    text-align: center;
+}
+
+.last-footer a { 
+    text-decoration:none; 
+} 
 
 /*============================ FOOTER SECTION ===================*/
 #footer{

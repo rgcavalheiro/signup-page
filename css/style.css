@@ -21,7 +21,30 @@ body{
 
 /*============================ FORM SECTION =========================*/
 #signup-form{
+    width:50%;
+    margin: 0 auto 0 auto;
+    padding:5%;
+}
+
+.top{
+    text-align: center;
+
+}
+
+.middle{
+
+}
+
+.bottom{
+    text-align: center;
 
 }
 
 /*============================ FOOTER SECTION ===================*/
+#footer{
+ 
+}
+
+.copyright a{
+    text-decoration: none;
+}

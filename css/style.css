@@ -3,6 +3,32 @@ body{
     background-color: #ECEEF1;
     color: #4C4C4C;
 }
+/*============================= NAV BAR =========================*/
+#signup-bar{
+    width: 100%;
+    text-align: right;
+    height:20px;
+}
+
+.signup-btn{
+    width: 7%;
+    height: 40px;
+    display: inline-block;
+    margin:0;
+    position: relative;
+    top:-7px;
+    background-color: #0077C5;
+    color:white;
+    border: 1px  solid  black;
+    border-radius: 5px; 
+}
+.navbar-text{
+    display: inline-block;
+}
+.navbar-link{
+    text-decoration: none;
+    color: #0077C5;
+}
 /*============================= HEADER SECTION ==================*/
 #header{
 

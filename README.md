@@ -22,17 +22,17 @@ This project consists of building an HTML document that matches the appearance o
 
 ## Authors
 
-👤 Mateo mojica
+👤 **Mateo mojica**
 
 -Github: @mateomh
 -Twitter: [@Mateom77199196]
 -LinkedIn: http://linkedin.com/in/mateo-mojica-hernandez
 
-👤 Rafael Cavalheiro
+👤 **Rafael Cavalheiro**
 
 -Github: @rgcavalheiro
 -Twitter: [@rgcavalheiro]
--LinkedIn: linkedin.com/in/rafael-cavalheiro-00415b94
+-LinkedIn: http://linkedin.com/in/rafael-cavalheiro-00415b94
 
 ## Show your support
 

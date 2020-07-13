@@ -2,7 +2,11 @@
 body{
     background-color: #ECEEF1;
     color: #4C4C4C;
+    font-family: 'Montserrat', sans-serif !important;
+
 }
+
+
 /*============================= NAV BAR =========================*/
 #signup-bar{
     width: 100%;
@@ -125,6 +129,8 @@ body{
     border-color: #c7c7c7;
     border-size: 1px;
     height: 35px;
+    border-style: solid;
+    border-radius: 5px;
     
 }
 
@@ -142,6 +148,17 @@ body{
 .lock{
     filter: invert(100%);
     width: 15px;
+}
+
+.passwordlock{
+    filter: invert(50%);
+    width: 25px;
+    position: relative;
+    top:-33px;
+    left:310px;
+}
+span {
+    font-size: 10px;
 }
 
 /*============================ FOOTER SECTION ===================*/

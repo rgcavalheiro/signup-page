@@ -24,15 +24,15 @@ This project consists of building an HTML document that matches the appearance o
 
 👤 Mateo mojica
 
-Github: @mateomh
-Twitter: [@Mateom77199196]
-LinkedIn: http://linkedin.com/in/mateo-mojica-hernandez
+-Github: @mateomh
+-Twitter: [@Mateom77199196]
+-LinkedIn: http://linkedin.com/in/mateo-mojica-hernandez
 
 👤 Rafael Cavalheiro
 
-Github: @rgcavalheiro
-Twitter: [@rgcavalheiro]
-LinkedIn: linkedin.com/in/rafael-cavalheiro-00415b94
+-Github: @rgcavalheiro
+-Twitter: [@rgcavalheiro]
+-LinkedIn: linkedin.com/in/rafael-cavalheiro-00415b94
 
 ## Show your support
 

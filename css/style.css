@@ -24,9 +24,14 @@ body{
     color:white;
     border: 1px  solid  black;
     border-radius: 5px; 
+    margin-right: 25px;  
+    margin-top:10px; 
+    margin-left: 7px; 
 }
 .navbar-text{
     display: inline-block;
+    margin-top: auto;
+    font-size: 12px;
 }
 .navbar-link{
     text-decoration: none;
@@ -154,6 +159,10 @@ body{
 }
 span {
     font-size: 10px;
+}
+
+.top p{
+    font-size: 12px;
 }
 
 /*============================ FOOTER SECTION ===================*/
